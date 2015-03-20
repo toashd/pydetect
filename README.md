@@ -13,6 +13,11 @@ The easiest way to install [OpenCV](http://opencv.org/) on a Mac is to use pip a
 
 ```
 $ pip install numpy
+```
+
+```
+$ brew tap homebrew/science
+$ brew info opencv
 $ brew install opencv
 ```
 
