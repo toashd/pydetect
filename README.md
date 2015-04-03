@@ -24,6 +24,6 @@ $ brew install opencv
 There can be problems with libpng, that can be solved by unlinking and linking again. Also it could be helpful to update and upgrade brew before installation.
 
 ```
-$ brew update && brew upgrade`
+$ brew update && brew upgrade
 $ brew unlink libpng && brew link libpng
 ```
