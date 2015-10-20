@@ -9,7 +9,7 @@ $ python detect_barcode.py --image images/barcode_01.jpg
 ```
 
 ### Installation
-The easiest way to install [OpenCV](http://opencv.org/) on a Mac is to use pip and brew. OpenCV needs [numpy](http://www.numpy.org/) to be installed, so make sure it is properly installed.
+The easiest way to install [OpenCV](http://opencv.org/) on a Mac is to use pip and brew. OpenCV needs [numpy](http://www.numpy.org/) to be installed, so make sure it is properly installed too.
 
 ```
 $ pip install numpy
